@@ -29,7 +29,7 @@ I enjoy solving complex engineering problems by combining intelligent LLM/RAG ba
 ## 🛠️ Engineering Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,react,nodejs,express,mongodb,flask,git,github,figma,linux&perline=11" alt="Technology icons: Python, JavaScript, React, Node.js, Express, MongoDB, Flask, Git, GitHub, Figma, Linux" />
+  <img src="https://skillicons.dev/icons?i=py,js,react,nodejs,express,mongodb,git,github,figma,linux&perline=11" alt="Technology icons: Python, JavaScript, React, Node.js, Express, MongoDB, Git, GitHub, Figma, Linux" />
 </div>
 
 <br/>
@@ -37,9 +37,9 @@ I enjoy solving complex engineering problems by combining intelligent LLM/RAG ba
 | Domain | Technologies & Tools |
 | :--- | :--- |
 | **MERN Full-Stack** | MongoDB, Express.js, React.js, Node.js, JavaScript (ES6+), RESTful APIs, Dynamic State Management |
-| **AI & Machine Learning** | Python, Retrieval-Augmented Generation (RAG), Agentic Workflows, LangChain, LangGraph, LLM APIs, FAISS, ChromaDB, Flask |
+| **AI & Machine Learning** | Python, Retrieval-Augmented Generation (RAG), Agentic Workflows, LangChain, LangGraph, LLM APIs, FAISS, ChromaDB|
 | **Frontend & UI/UX** | Component Architecture, Responsive Web Design, Dark/Light Theme Systems, Figma Prototyping |
-| **Databases & Tooling** | MongoDB Atlas, Mongoose, Vector Databases (FAISS, ChromaDB), Git, GitHub, npm, Linux/macOS Shell, Antigravity IDE |
+| **Databases & Tooling** | MongoDB Atlas, Mongoose, Vector Databases (FAISS, ChromaDB), Git, GitHub, npm, Linux/macOS Shell |
 
 ---
 
